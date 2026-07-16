@@ -1,4 +1,4 @@
-const CACHE_NAME = 'simple-pet-index-v3-6';
+const CACHE_NAME = 'simple-pet-index-v3-7';
 const ASSETS = [
   './',
   './index.html',
